@@ -165,3 +165,35 @@ input{
         transform: translateY(-10px);
     }
 }
+
+.spin-parent {
+    padding: 70px 0;
+    transform: translateX(-10%);
+}
+
+.spin {
+    display: block;
+    margin: auto;
+}
+
+#loading {
+    display: none;
+}
+
+#err {
+    transform: translateX(-10%);
+    font-family: monospace;
+    text-align: center;
+    font-size: 1.2em;
+    display: none;
+    color: rgb(255, 37, 37);
+}
+
+.video-name {
+    text-align: left;
+}
+
+.video-status {
+    text-align: right;
+    float: right;
+}
