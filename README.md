@@ -2,7 +2,13 @@
 A web application that lets the user download
 YouTube playlists in batch.
 
-Made in Vanilla and Flask.
+## Technologies Used
+* HTML, CSS and JavaScript for public webpages.
+* Bootstrap and jQuery for enhancing the front-end.
+* Flask for the back-end server.
+<br><br>
+[Preview on Heroku](https://y-t-downloader.herokuapp.com/)
+<br><br>
 
 ## Execution
 1. Create a virtual environment and enter it.
@@ -29,6 +35,12 @@ Made in Vanilla and Flask.
    ```bash
    flask run -p 8080
    ```
+
+# Execution (Docker)
+Simply use Docker Compose.
+```bash
+docker compose up -d
+```
 
 The application runs on http://localhost:8080 by default.
 

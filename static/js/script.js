@@ -71,7 +71,6 @@ $(document).ready(function () {
                 const inner = $('<div></div>').text('Invalid video!').addClass('col-12 col-md-6 offset-md-2 d-inline video-name');
                 inner.css({ color: 'red' });
 
-                inner.append(status);
                 el.append(inner);
                 return el;
             }
