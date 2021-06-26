@@ -44,4 +44,9 @@ docker compose up -d
 
 The application runs on http://localhost:8080 by default.
 
+![gallery](https://user-images.githubusercontent.com/53485461/123506862-f6867980-d683-11eb-8661-79ce6594acfa.jpg)
+![gallery (2)](https://user-images.githubusercontent.com/53485461/123506863-f7b7a680-d683-11eb-985f-9c23fdec2c77.jpg)
+![gallery (1)](https://user-images.githubusercontent.com/53485461/123506864-f8503d00-d683-11eb-9f0d-d4f9c7491bfb.jpg)
+
+
 # Made with ❤ by Harsh and [Param](https://www.paramsid.com).
